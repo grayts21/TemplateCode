@@ -16,7 +16,7 @@
     "lint": "esw webpack.config.*, src, buildScripts",
     "start:lint": "npm-run-all sec-check lint open:src"
   },
-  "author": "Cory House",
+  "author": "Anthony Gray",
   "license": "MIT",
   "dependencies": {
     "whatwg-fetch": "1.0.0"
